@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+     >
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="בית"
+            android:icon="@drawable/ic_baseline_home_24"/>
+        <item
+            android:id="@+id/nav_check_car"
+            android:title="בדיקת רכב"
+            android:icon="@drawable/checkcar"/>
+
+        <item
+            android:id="@+id/tasks"
+            android:title="יזומות"
+            android:icon="@drawable/yazum"/>
+        <item
+            android:id="@+id/logOut_xml"
+            android:title="התנתק"
+            android:icon="@drawable/exit_icon"/>
+    </group>
+
+
+
+
+</menu>

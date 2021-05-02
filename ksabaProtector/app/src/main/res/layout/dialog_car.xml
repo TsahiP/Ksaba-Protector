@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/car"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="בחר רכב מהרשימה"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+
+        <Button
+
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1.0"
+            android:text="54"
+            android:id="@+id/jeep_54_xml"
+            android:textStyle="bold"
+            android:background="@drawable/bg_chose_car"
+            android:textColor="#ffffff"
+            />
+
+        <Space
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <Button
+            android:layout_width="0.0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1.0"
+            android:text="53"
+            android:textStyle="bold"
+            android:id="@+id/jeep_53_xml"
+            android:background="@drawable/bg_chose_car"
+            android:textColor="#ffffff"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:background="@drawable/bg_chose_car"
+            android:id="@+id/motorcycle_6_xml"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1.0"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:text="6" />
+
+        <Space
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <Button
+            android:id="@+id/motorcycle_4_xml"
+            android:layout_width="0.0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:layout_weight="1.0"
+            android:text="4"
+            android:background="@drawable/bg_chose_car"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/motorcycle_2_xml"
+            android:layout_width="0.0dp"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1.0"
+            android:text="2"
+            android:background="@drawable/bg_chose_car"
+            android:textColor="#ffffff"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+
+
+        <Button
+
+            android:id="@+id/car_5_xml"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1.0"
+            android:text="5"
+            android:background="@drawable/bg_chose_car"
+            android:textColor="#ffffff"
+            />
+
+        <Space
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <Button
+            android:id="@+id/car_3_xml"
+            android:layout_width="0.0dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1.0"
+            android:text="3"
+            android:background="@drawable/bg_chose_car"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/car_1_xml"
+            android:layout_width="0.0dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1.0"
+            android:textColor="#ffffff"
+            android:text="1"
+            android:background="@drawable/bg_chose_car"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

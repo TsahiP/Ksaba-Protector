@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "55743402841",
+    "firebase_url": "https://ksabaprotector.firebaseio.com",
+    "project_id": "ksabaprotector",
+    "storage_bucket": "ksabaprotector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55743402841:android:0d1e1009dfa86fc444b248",
+        "android_client_info": {
+          "package_name": "com.example.ksabaprotector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55743402841-80bv6gglt9pft330nhrrffik479uei5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ksabaprotector",
+            "certificate_hash": "951b828dcc88f62cdbffa995851540d8e2ddb43c"
+          }
+        },
+        {
+          "client_id": "55743402841-l44e3642g2gdbcf84n6q6o64uus0esu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuX1nKWbye0Va8h3LmuWiDxvczeKAlVNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55743402841-l44e3642g2gdbcf84n6q6o64uus0esu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

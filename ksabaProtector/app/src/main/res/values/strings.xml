@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ksabaProtector</string>
+    <string name="navigation_drawer_open">"close navigation drawer"</string>
+    <string name="navigation_drawer_close">"open navigation drawer"</string>
+</resources>
